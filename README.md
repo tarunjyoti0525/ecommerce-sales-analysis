@@ -70,7 +70,7 @@ The notebook includes four charts:
    ```bash
    pip install pandas matplotlib notebook
    ```
-3. Place `Ecommerce_Sales_Analysis.ipynb`, `ecommerce_sales.csv`, and this `README.md` in the same project folder.
+3. Place `Project 1.ipynb`, `ecommerce_sales.csv`, and this `README.md` in the same project folder.
 4. Open the notebook in Jupyter.
 5. Ensure the CSV-loading line uses the relative path `pd.read_csv("ecommerce_sales.csv")`.
 6. Select **Kernel → Restart Kernel**, then **Run → Run All Cells**.
